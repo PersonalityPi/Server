@@ -1,0 +1,31 @@
+<configs>
+<set xpath="/items/item[@name='drugSteroids']/effect_group/display_value[@name='dCarryCapacity' and @value]/@value">96</set>
+<append xpath="/items">
+<!--
+<item name="testbackpack">
+	<property name="HoldType" value="45"/>
+	<property name="CustomIcon" value="7backpack"/>
+	<property name="Meshfile" value="Items/Health/painkillersPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Morganic"/>
+	<property name="EconomicValue" value="80"/>
+	<property name="LootList" value="2"/>
+	<property name="Stacknumber" value="1"/>
+	<property name="Class" value="Loot"/>
+	<property class="Action0">
+		<property name="Class" value="Eat"/>
+		<property name="Delay" value="1.0"/>
+		<property name="Use_time" value="..."/>
+		<property name="Sound_start" value="player_painkillers"/>
+	</property>
+	<property name="ActionSkillGroup" value="Medicine"/>
+	<property name="CraftingSkillGroup" value="craftSkillScience"/>
+	<property name="Group" value="Science"/>
+
+	<effect_group tiered="false">
+	</effect_group>
+</item>
+-->
+</append>
+</configs>
+

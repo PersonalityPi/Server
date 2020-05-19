@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="Survival HUD" />
+		<Description value="Adds food, water, and temp to the hud" />
+		<Author value="Taycott" />
+		<Version value="A17_2" />
+	</ModInfo>
+</xml>
